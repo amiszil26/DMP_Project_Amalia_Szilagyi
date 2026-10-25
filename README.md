@@ -16,12 +16,12 @@ My project is designed to monitor water levels and operate a flood barrier when 
 
 3. Hardware Components
 
--Arduino Uno
--Water Level Sensor
--Seven-Segment Display
--Breadboard and Jumper Wires
--LCD
--LEDs
--Buzzer
--Micro Servo Motor
--3 LEDs
+- Arduino Uno
+- Water Level Sensor
+- Seven-Segment Display
+- Breadboard and Jumper Wires
+- LCD
+- LEDs
+- Buzzer
+- Micro Servo Motor
+- 3 LEDs
